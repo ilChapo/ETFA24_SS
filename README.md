@@ -18,6 +18,6 @@ The averaged error results for the 10 First Order Plus Dead Time (FOPDT) process
 
 <div align="center">
 
-<img src="images/results_table.png" width="300px">
+<img src="images/results_table.png" width="500px">
 
 </div>
