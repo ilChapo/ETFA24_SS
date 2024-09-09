@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="SS_ANN.png" width="600px">
+<img src="images/SS_ANN.png" width="600px">
 
 </div>
 ___
@@ -16,10 +16,10 @@ Ensure that the dataset is properly integrated into the working environment and 
 Open the NS.ipynb and SS.ipynb notebooks, execute all necessary cells leading up to the final ones.
 
 ## 2. Results
-The results for the 10 First Order Plus Dead Time (FOPDT) processes are showcased in the image below. These results were obtained after running 100 epochs with the default parameter settings, and early stopping was applied after 30 epochs without improvements.
+The averaged error results for the 10 First Order Plus Dead Time (FOPDT) processes are showcased in the image below. These results were obtained after running 100 epochs with the default parameter settings, and early stopping was applied after 30 epochs without improvements.
 
 <div align="center">
 
-<img src="results.png" width="300px">
+<img src="images/results_table.png" width="300px">
 
 </div>
