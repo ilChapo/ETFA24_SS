@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/SS_ANN.png" width="600px">
+<img src="images/SS ANN.png" width="600px">
 
 </div>
 ___
